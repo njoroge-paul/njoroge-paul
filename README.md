@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @njoroge-paul
-- 👀 I’m interested in html,css,sql,php,javascript,React& python
+- 👀 I’m interested in flask,html,css,sql,php,javascript,React& python
 - 🌱 I’m currently learning python,MySQL
 - 💞️ I’m looking to collaborate on learning based projects
 - 📫 How to reach me : instagram:@njor0ge_paul : Whatsaap: +254743406805;
